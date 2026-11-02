@@ -1,0 +1,1 @@
+print("Application version 1")
